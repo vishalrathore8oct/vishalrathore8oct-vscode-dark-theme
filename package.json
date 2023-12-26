@@ -1,8 +1,21 @@
 {
   "name": "vishalrathore8oct-dark-theme",
   "displayName": "vishalrathore8oct Dark Theme",
-  "description": "",
+  "description": "A amazing theme to write and teach code ",
   "version": "0.0.1",
+  "publisher": "vishalrathore8oct-dark-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishalrathore8oct/vishalrathore8oct-vscode-dark-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "best dark theme",
+    "coder theme",
+    "vishalrathore8oct dark theme",
+    "vishalrathore8oct"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
