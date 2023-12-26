@@ -1,0 +1,21 @@
+{
+  "name": "vishalrathore8oct-dark-theme",
+  "displayName": "vishalrathore8oct Dark Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vishalrathore8oct Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vishalrathore8oct Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
